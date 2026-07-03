@@ -1,24 +1,46 @@
 *
 {
   background-color: hsl(212, 45%, 89%);
-}
 
-.rubik {
-  font-family: "Rubik", sans-serif;
+    font-family: "Rubik", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500px;
   font-style: normal;
+
+  font-size: 15px;
 }
-
-
-
 .white-space
 {
-    border: 1px solid white;
+    background-color: white;
     border-radius: 10px;
+    text-align: center;
+    height: 380px;
+    width: 200px;
+
+    display: grid;
+    margin: 200px auto;
 }
 
+.bold-text
+{
+    color: hsl(218, 44%, 22%);
+    background-color: inherit;
+    margin: 10px;
+    font-weight: bold;
 
-.attribution { font-size: 0.6875rem; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+}
 
+.gray-text
+{
+    color: hsl(216, 15%, 48%);
+    background-color: inherit;
+    margin: 10px;
+
+}
+
+.image-qr
+{
+    width: 180px;
+    margin: 10px;
+    border-radius: 10px;
+}
