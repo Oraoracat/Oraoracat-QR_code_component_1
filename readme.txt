@@ -1,0 +1,1 @@
+1. I had to figure out how to centre the whole section with the white square. I had a look at W3Schools to find out more about `display:` and `justify-content:`, `align-items` (I didn’t end up using the latter two).
